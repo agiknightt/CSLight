@@ -1,0 +1,13 @@
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.exe
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.deps.json
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.runtimeconfig.json
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.runtimeconfig.dev.json
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.dll
+E:\prj\CSLight\CSLight\bin\Debug\netcoreapp3.1\CSLight.pdb
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.csprojAssemblyReference.cache
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.AssemblyInfoInputs.cache
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.AssemblyInfo.cs
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.csproj.CoreCompileInputs.cache
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.dll
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.pdb
+E:\prj\CSLight\CSLight\obj\Debug\netcoreapp3.1\CSLight.genruntimeconfig.cache
